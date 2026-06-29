@@ -1,2 +1,2 @@
 # meu-primeiro-pr
-Repositorio de teste para o primeiro PR
+Repositório de teste para o primeiro PR
